@@ -45,7 +45,7 @@ A modern blog application built with **React, Redux Toolkit, and Tailwind CSS** 
 
 4. **Open in browser:**
    ```sh
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## 🛠️ Key Components
