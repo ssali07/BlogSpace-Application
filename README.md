@@ -67,5 +67,5 @@ A modern blog application built with **React, Redux Toolkit, and Tailwind CSS** 
 Contributions are welcome! Feel free to submit issues or create pull requests.
 
 
-Made with ❤️ by [Your Name](https://github.com/your-github-profile)
+Made with ❤️ by [Sahin Ali](https://github.com/ssali07)
 
